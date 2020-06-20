@@ -24,7 +24,7 @@ urls:
 
 # Edit these details
 
-author_logo: profile.png
+author_logo: profile.PNG
 author: Takashi Yoshioka
 author_bio: Hi, my name is Takashi Yoshioka. I built this site using devlopr-jekyll :D
 author_email: "takagotch@gmail.com"
