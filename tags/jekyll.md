@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jekyll
-permalink: {{ site.baseurl }}/blog/tags/jekyll
+permalink: /blog/tags/jekyll
 ---
  
 <h5> Posts by Tag : {{ page.title }} </h5>
