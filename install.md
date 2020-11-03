@@ -105,7 +105,7 @@ Visit [http://localhost:4000](http://localhost:4000) for development server
 
 ![Devlopr Jekyll Repo](/assets/img/posts/fork4.png){:class="img-fluid"}
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork41.png){:class="img-fluid"}
+![Devlopr Jekyll Repo](/assets/img/posts/fork41.PNG){:class="img-fluid"}
 
 ### Adding Content
 
