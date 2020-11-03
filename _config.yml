@@ -24,47 +24,47 @@ urls:
 
 # Edit these details
 
-author_logo: profile.PNG
-author: Takashi Yoshioka
-author_bio: ★TKVTV★
-author_email: "takagotch@activated.sakura.ne.jp"
-author_location: Japan
-author_website_url: "https://takagotch.github.io/page63/"
-typewrite-text: 最強伝説 Project-D 始動!
+author_logo:        profile.PNG
+author:             Takashi Yoshioka
+author_bio:         ★TKVTV★
+author_email:       "takagotch@activated.sakura.ne.jp"
+author_location:    Japan
+author_website_url: "https://takagotch.github.io/page64/"
+typewrite-text:     最強伝説 Project-D 始動!
 
 author_work_experiences:
             - company_name: Google
               company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
+              company_url:  https://google.com
+              designation:  Software Engineer
+              description:  Worked on various Google Products
+              visibility:   true
             - company_name: Microsoft
               company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: true
+              company_url:  https://microsoft.com
+              designation:  Azure Developer
+              description:  Worked on various Azure Cloud Products
+              visibility:   true
 
 author_education_details:
               - college_logo: mit.png
                 college_name: MIT
-                college_url: https://mit.org
+                college_url:  https://mit.org
                 college_degree: CS Engineer
-                description: Bachelor of Technology
-                visibility: true
+                description:    Bachelor of Technology
+                visibility:     true
 
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
+              - project_thumbnail:   gamershub.png
+                project_title:       Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
+                project_url:         https://gamershub.in
+                visibility:          true
+              - project_thumbnail:   hack4r.PNG
+                project_title:       Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
-                visibility: true
+                project_url:         https://hack4r.com
+                visibility:          true
 
 # social links
 twitter_username:   takagotch
