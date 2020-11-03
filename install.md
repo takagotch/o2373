@@ -44,7 +44,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 - _includes - You can replace the contents of the files with your data. (contains widgets)
 - _assets/img - Add all your images here
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork34.png){:class="img-fluid"}
+![Devlopr Jekyll Repo](/assets/img/posts/fork34.PNG){:class="img-fluid"}
 
 > **Step 5** - Install the development requirements:
 
