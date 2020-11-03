@@ -160,7 +160,7 @@ Once happy with your blog changes. Push your changes to master branch.
 
 Visit your Github Repo settings ! Enable master branch as Github Pages Branch :
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork6.png){:class="img-fluid"}
+![Devlopr Jekyll Repo](/assets/img/posts/fork6.PNG){:class="img-fluid"}
 
 > **Step 9.** Deploy your Blog :
 
