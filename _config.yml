@@ -93,21 +93,21 @@ mailchimp_form_url: http://eepurl.com/hhLC69   # https://sujaykundu.us10.list-ma
 formspree_email: dyaccb@gmail.com
 
 # syntax highlighter
-markdown: kramdown
+markdown:    kramdown
 highlighter: rouge
-permalink: pretty
+permalink:   pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences:  true
 show_author_education_details: true
-show_author_project_details: true
+show_author_project_details:   true
 
 # algolia search
 algolia:
-  application_id: ZVOWW7X36A
-  index_name: blog_posts # You can replace that with whatever name you want
-  files_to_exclude: []
-  nodes_to_index: 'article'
+  application_id:      ZVOWW7X36A
+  index_name:          blog_posts # You can replace that with whatever name you want
+  files_to_exclude:    []
+  nodes_to_index:      'article'
   search_only_api_key: f24d3dafb22d8a15a11995f595985f74
 
 # pagination of posts
