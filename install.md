@@ -25,7 +25,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 > **Step 3.** Clone the new repo locally to make changes :
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork31.png){:class="img-fluid"}
+![Devlopr Jekyll Repo]({{ site.baseurl }}/assets/img/posts/fork31.png){:class="img-fluid"}
 
 ![Devlopr Jekyll Repo](/assets/img/posts/fork32.png){:class="img-fluid"}
 
