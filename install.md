@@ -19,7 +19,7 @@ If you aren’t familiar with Jekyll yet, you should know that it is a static si
 
 > **Step 2.** Use **your-github-username.github.io** as the new repo  ( Replace your-github-username with yours). Remember if you use the name other than your-github-username.github.io , your blog will be built using gh-pages branch.
 
-![Devlopr Jekyll Repo](/assets/img/posts/fork2.png){:class="img-fluid"}
+![Devlopr Jekyll Repo](https://takagotch.github.io/page63/assets/img/posts/fork2.png){:class="img-fluid"}
 
 ![Devlopr Jekyll Repo](/assets/img/posts/fork3.png){:class="img-fluid"}
 
