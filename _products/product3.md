@@ -1,7 +1,7 @@
 ---
 identifier: jekyll-starry-night-3
-name: John Doe Mug
-price: 10
+name: iPhone 12 pro
+price: 101810
 image: /assets/img/products/product3.jpg
 ---
 
