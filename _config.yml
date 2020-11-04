@@ -21,6 +21,8 @@ urls:
       url:  /styleguide
     - text: Get Started
       url:  /get-started
+    - text: site.urls
+      url:  /xxx
 
 # Edit these details
 
