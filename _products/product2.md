@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-starry-night-2
-name: John Doe Mug
+name: Google Pixel4a 5G
 price: 10
 image: /assets/img/products/pixel4a5g.png
 ---
