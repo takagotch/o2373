@@ -1,7 +1,7 @@
 ---
 identifier: jekyll-starry-night-2
 name: Google Pixel4a 5G
-price: ￥60,500
+price: 60,500
 image: /assets/img/products/product2.jpg
 ---
 
