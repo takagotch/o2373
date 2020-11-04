@@ -1,7 +1,7 @@
 ---
 identifier: john-doe-tshrirt
 name: Google Pixel5
-price: ￥74,800
+price: 74,800
 image: /assets/img/products/pixel5.jpg
 image: /assets/img/products/product1.jpg
 ---
