@@ -23,6 +23,8 @@ urls:
       url:  /get-started
     - text: site.urls
       url:  /xxx
+    - text: /site.urls1
+      url:  /xxx1
 
 # Edit these details
 
