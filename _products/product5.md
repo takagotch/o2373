@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-starry-night-5
-name: t-shirts created by tkvtv
+name: takagotch's T-Shirt
 price: 10,000
 image: /assets/img/products/product5.png
 ---
