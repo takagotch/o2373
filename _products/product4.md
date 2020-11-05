@@ -1,7 +1,7 @@
 ---
 identifier: jekyll-starry-night-4
 name: iPhone 12 pro max
-price: 0
+price: 181,540
 image: /assets/img/products/product4.jpg
 ---
 
