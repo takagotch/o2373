@@ -1,5 +1,8 @@
 https://takagotch.github.io/page63
 
+[GithubPage](https://takagotch.github.io/page63)
+[Netlify](https://takagotch.github.io/page63)
+[Zeit vertical](https://takagotch.github.io/page63)
 
 ---
 
