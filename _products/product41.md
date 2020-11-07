@@ -1,6 +1,6 @@
 ---
-identifier: jekyll-starry-night-4
-name: iPhone 12 pro max
+identifier: jekyll-starry-night-4.1
+name: iPhone 12 pro max 256GB
 price: 181,540
 image: /assets/img/products/product4.jpg
 ---
