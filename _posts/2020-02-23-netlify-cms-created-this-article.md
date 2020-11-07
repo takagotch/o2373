@@ -2,7 +2,7 @@
 layout: post
 author: Takashi Yoshioka
 title: Netlify CMS created this Article
-date: 2020-04-23T09:52:20.613Z
+date: 2020-02-23T09:52:20.613Z
 thumbnail: /assets/img/posts/1profile.png
 category: jekyll
 summary: Demo Content using Netlify CMS
