@@ -1,6 +1,6 @@
 ---
 identifier: jekyll-starry-night-3
-name: iPhone 12 pro
+name: iPhone 12 pro 512GB
 price: 101,810
 image: /assets/img/products/product3.jpg
 ---
