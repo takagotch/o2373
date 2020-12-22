@@ -1,4 +1,4 @@
-title:    楽吉楽座
+title:    楽吉楽座co.jp
 subtitle: あの超人気商品が買える！よしおかかんたん決済可能です。
 description: >- # this means to ignore newlines until "baseurl:"
   取引量No.1！ *当社比
@@ -21,10 +21,10 @@ urls:
       url:  /styleguide
     - text: Get Started
       url:  /get-started
-    - text: site.urls
-      url:  /xxx
-    - text: /site.urls1
-      url:  /xxx1
+#    - text: site.urls
+#      url:  /xxx
+#    - text: /site.urls1
+#      url:  /xxx1
 
 # Edit these details
 
